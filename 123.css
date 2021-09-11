@@ -1,0 +1,80 @@
+body,p,h1,h2,h3,h4{
+	margin:0;
+}/*样式重置*/
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;}/*样式重置*/
+img{
+	border:none;
+	vertical-align:middle;/*垂直方向的对齐方式*/}/*样式重置*/
+a{
+	text-decoration:none;
+	color:#3c3c3c;}/*样式重置*/
+i{
+	font-style:normal;}/*样式重置*/
+input{
+	margin:0;
+	padding:0;}/*样式重置*/
+button{
+	outline:none;}/*样式重置*/
+table{
+	border-collapse: collapse;/*边框模式,是一种合并的模式*/
+}
+th,td{
+	padding: 0;
+}
+body{
+	font:12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;/*1.5是指行高
+	\5b8b\4f53是宋体的意思，这种形式是二进制转换而来*/
+	color:#3c3c3c;
+	background-color:#f4f4f4;/*背景色*/}
+.clearfix:after{
+	content:'';
+	display:block;
+	clear:both;}/*清除浮动三件套*/
+.fl{
+	float:left;}/*向左浮动*/
+.fr{
+	float:right;}/*向右浮动*/
+.leayer{
+	width:1190px;
+	margin:0 auto;}/*预定义样式*/
+.c4{
+	color:#f40;}/*预定义样式*/
+.c5{
+	color:#f50;}/*预定义样式*/
+.c6{
+	color: #A8C001;
+}
+.mt10{
+	margin-top:10px;}/*预定义样式*/
+.mr10{
+	margin-right:10px;}/*预定义样式*/
+.mr7{
+	margin-right:7px;}/*预定义样式*/
+.mr5{
+	margin-right:5px;}/*预定义样式*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
